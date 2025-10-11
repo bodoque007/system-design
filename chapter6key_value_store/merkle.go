@@ -68,5 +68,6 @@ func main() {
 		})
 	}
 	merkleTree := buildMerkleTreeFromLeaves(leaves)
+	
 
 }
